@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.colorfondonav {
+    background-color: rgb(74, 74, 74);
+}
+
+.navbar-light .navbar-brand{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+
+.navbar-light .navbar-nav .verde {
+    color: rgb(20, 148, 20);
+}
+
+.carousel-inner img {
+    width: 100%;
+    max-height: 90vh;
+}
+
+.oradores {
+ padding-top: 20px;  
+}
+
+.tituloOradores {
+    text-align: center;
+    font-size: xx-large;
+}
+
+.contspanora {
+    text-align: center;
+    font-size: small;
+}
+
+.honolulu {
+    height: 60vh;
+}
+
+.izquierda {
+    background-image: url(../asset/img/honolulu.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: 1px solid white;
+}
+
+.derecha {
+    background-color: rgb(52, 52, 69);
+    color: white;
+    border: 1px solid white;
+}
+.Tituloform{
+    text-align: center;
+    font-size: xx-large;
+}
+.contspan{
+    font-size: small;
+}
+.Subtitform{
+    text-align: center;
+    font-size:medium;
+}
+
+.footer {
+    background-image: linear-gradient(to right, #1b1a37, #242646, #2c3355, #354164, #3d4f74);
+    padding: 1.2rem 3rem;
+    height: 14%;
+}
+
+.nav-item .nav-link {
+    color: white;
+}
