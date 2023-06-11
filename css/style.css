@@ -76,3 +76,36 @@
 .nav-item .nav-link {
     color: white;
 }
+
+.contenidocajas {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.contformtick {
+    font-weight: 100;
+    font-size: medium;
+}
+
+.cardestudiante {
+    border: solid 1px blue;
+}
+
+.cardtrainee {
+    border: solid 1px darkcyan
+}
+
+.cardjunior {
+    border: solid 1px goldenrod;
+}
+
+
+.formulariotickets {
+    max-width: 800px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.confondo {
+    background-color: rgba(95, 158, 160, 0.523);
+}
